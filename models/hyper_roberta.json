@@ -1,0 +1,13 @@
+{
+  "vocab_size" : 50265,
+  "embed_dim": 768,
+  "hidden_dim": 128,
+  "num_heads": 4,
+  "head_dim": 32,
+  "num_layers": 10,
+  "l_init": 0.75,
+  "max_seq_len ": 32,
+  "seq_len" : 40
+}
+
+

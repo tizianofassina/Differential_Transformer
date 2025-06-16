@@ -1,0 +1,11 @@
+{
+  "vocab_size" : 76616,
+  "embed_dim": 128,
+  "hidden_dim": 128,
+  "num_heads": 4,
+  "head_dim": 32,
+  "num_layers": 10,
+  "l_init": 0.5,
+  "max_seq_len ": 32,
+  "seq_len" : 40
+}

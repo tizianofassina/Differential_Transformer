@@ -1,0 +1,40 @@
+{
+  "arc_challenge": {
+    "alias": "arc_challenge",
+    "acc,none": 0.2150170648464164,
+    "acc_stderr,none": 0.012005717634133543,
+    "acc_norm,none": 0.23378839590443687,
+    "acc_norm_stderr,none": 0.01236822537850722
+  },
+  "arc_easy": {
+    "alias": "arc_easy",
+    "acc,none": 0.28703703703703703,
+    "acc_stderr,none": 0.009282621598983217,
+    "acc_norm,none": 0.2803030303030303,
+    "acc_norm_stderr,none": 0.009216306864088211
+  },
+  "boolq": {
+    "alias": "boolq",
+    "acc,none": 0.3782874617737003,
+    "acc_stderr,none": 0.008482001133931097
+  },
+  "openbookqa": {
+    "alias": "openbookqa",
+    "acc,none": 0.114,
+    "acc_stderr,none": 0.014227186146645534,
+    "acc_norm,none": 0.26,
+    "acc_norm_stderr,none": 0.019635965529725526
+  },
+  "piqa": {
+    "alias": "piqa",
+    "acc,none": 0.5391730141458106,
+    "acc_stderr,none": 0.011629966056957037,
+    "acc_norm,none": 0.5119695321001088,
+    "acc_norm_stderr,none": 0.011662480968070035
+  },
+  "winogrande": {
+    "alias": "winogrande",
+    "acc,none": 0.5067087608524072,
+    "acc_stderr,none": 0.014051220692330247
+  }
+}
