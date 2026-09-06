@@ -192,7 +192,7 @@ The two architectures reach **comparable accuracy** across the suite; neither do
 ### Long-context negative log-likelihood
 
 We measure the cumulative average NLL over token position on the WikiText-2 test set (window up to the 40-token context length).
-<img src="cumulative_NLL.png" width="300" alt="Cumulative average NLL: normal vs. differential attention">
+<img src="cumulative_NLL.png" width="300" alt="Cum-average NLL: normal vs. differential attention">
 In the reference paper, differential attention is *more* effective at exploiting longer contexts. In our under-trained, small-scale setting we observe the **opposite** trend — the classical model achieves slightly lower NLL — which we attribute to the limitations discussed below rather than to the mechanism itself.
 
 ## Limitations
