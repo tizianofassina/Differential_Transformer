@@ -19,7 +19,9 @@ Jinja2==3.1.5
 jsonlines==4.0.0
 langcodes==3.5.0
 langdetect==1.0.9
+lm_eval==0.4.7
 mamba_ssm==2.2.4
+matplotlib==3.10.0
 more_itertools==10.6.0
 nemo==6.0.3
 neologdn==0.5.3
@@ -36,7 +38,6 @@ pycountry==24.6.1
 pytablewriter==1.2.1
 pytest==8.3.4
 pytorch_lightning==2.5.0.post0
-PyYAML==6.0.1
 PyYAML==6.0.2
 ray==2.42.0
 regex==2024.11.6
@@ -45,11 +46,13 @@ rouge_score==0.1.2
 sacrebleu==2.5.1
 scikit_learn==1.6.1
 scipy==1.15.1
+seaborn==0.13.2
 setuptools==72.1.0
 sparseml==1.8.0
 sqlitedict==2.1.0
 sympy==1.13.3
 tenacity==9.0.0
+tensorboard==2.18.0
 tiktoken==0.8.0
 tokenizers==0.21.0
 torch==2.6.0
